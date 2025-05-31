@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding:0;
-    box-sizing: border-boxbo;
+    box-sizing: border-box;
 }
 
 body{
@@ -23,7 +23,7 @@ body{
     justify-content: center;
 
 }
-.buttns{
+.buttons{
     margin: 30px,0; 
     display: flex;
     gap: 40px;
